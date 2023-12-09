@@ -14,7 +14,7 @@ button {
     background-color: yellow;
 }
 
-img {
+.food-image {
     display: block;
     width: 250px;
     margin: auto;
